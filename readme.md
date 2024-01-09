@@ -41,7 +41,7 @@ Volledige mededinging
 - Geen macht bij de consument
 - Veel macht bij de producent
 - - de NS
-- - prijzen worden alleen in toom gehouden door het bereik van alternatieven zoals de fiets
+- - prijzen worden alleen in toom gehouden door de toegankelijkheid van alternatieven zoals de fiets
 
 Oligopolie
 - geen macht bij de consument
