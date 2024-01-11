@@ -52,3 +52,14 @@ Monopolistiche concurentie
  - geen macht bij de consumenten
  - alleen macht bij de producent als ze een unieke eigenschap of merknaam (gucci) naar de markt kunnen brengen
 
+**Maximale winst = MO = MK geld alleen voor volledige concurentie**
+- mo = marginale opbrengst
+- mk = marginale kosten
+
+# Engels
+**Emenata**
+- drawings showing action
+-  - tears
+   - anger squiggle
+
+![](./the_HOMEWORK_folder/amenata)
