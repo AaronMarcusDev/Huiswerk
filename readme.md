@@ -63,3 +63,56 @@ Monopolistiche concurentie
    - anger squiggle
 
 ![](./the_HOMEWORK_folder/amenata.jpg)
+
+**Speech bubble** 
+- spoken text (and thought)
+![](./the_HOMEWORK_folder/speech.jpg)
+
+**Gutter**
+- space between panels
+- readers tend to imagine what happens in between frames
+
+**Splash**
+- panels spanning the enitre width of a page
+- bleed, splash continuing outside of the page
+
+**Graphic weight**
+- amount of contrast in the colours of a panel
+
+**Foreground**
+- in the front of the scene
+
+**Midground**
+- at the middel of the scene
+
+**Background**
+- at the back of the scene
+
+**Camera angle**
+- what if it was a picture
+
+**Captions**
+- text spoken by the narrator or describing the scene
+
+![](./the_HOMEWORK_folder/panel.jpg)
+
+## Transitions
+**Movement to movement**
+- transitions between panels show basic movement
+
+**Action to Action**
+- single subject moving through a motion
+
+**Subject to Subject**
+- transitions stays within a specific scene or idea and call for more reader involvement
+
+**Scene to scene**
+- a transition to a completely different scene (usualy also a different place/time)
+
+**Aspect to aspect**
+- shows different aspects occuring in the same scen at the same time
+
+**non sequitur**
+- no logical connection between panels
+
+
