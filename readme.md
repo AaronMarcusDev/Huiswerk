@@ -62,4 +62,4 @@ Monopolistiche concurentie
 -  - tears
    - anger squiggle
 
-![](./the_HOMEWORK_folder/amenata)
+![](./the HOMEWORK folder/amenata)
